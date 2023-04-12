@@ -10,8 +10,8 @@ This is a speed shooter game. You will have to choose on which number you will s
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python time library
+- Python `tkinter` library
+- Python `random` library
+- Python `time` library
 ## Game Captures
 ![Game capture](./preview/images/1.jpg)
